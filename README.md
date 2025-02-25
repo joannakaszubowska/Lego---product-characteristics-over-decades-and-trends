@@ -51,42 +51,42 @@ Interactive dashboards and reports were built in PowerBi to present the data vis
 - What trends can be observed in user ratings and the number of reviews from Brickset.com?
 
 5. Findings:
- 1.Average Pieces and New Sets by Year
+- Average Pieces and New Sets by Year
 The average number of pieces per set has steadily increased over the decades, peaking after 2000, indicating a growing trend towards more complex builds.
- 2.Correlation between number of pieces and popularity:
+- Correlation between number of pieces and popularity:
 Sets with more pieces tend to show higher desire. The scatter plot shows positive correlation between the "Ownedby" and "wantedby" metrics for lego sets. Sets with higher "ownedby" counts tend to have higher "wantedby" counts, indicating that popular sets are both widely collected ang highly sought after.
- 3. Average Metrics:
+- Average Metrics:
 The average number of WantedBy entries (1.1k) is lower compared to OwnedBy entries (3.5k), suggesting that LEGO sets are more likely to be collected than actively sought after by new customers.
- 4. Correlation Between OwnedBy, WantedBy, and Rating:
+- Correlation Between OwnedBy, WantedBy, and Rating:
 Sets with higher "OwnedBy" and "WantedBy" counts generally show higher ratings, though some lower-rated sets still attract attention.
- 5. Rating Distribution:
+- Rating Distribution:
 The majority of ratings cluster between 3.5 and 4.5 stars, with fewer sets receiving extremely low or high ratings.
- 6. Correlation Between Retail Price and Rating:
+- Correlation Between Retail Price and Rating:
 Higher-priced sets tend to have better ratings, suggesting that consumers associate higher prices with quality or that premium sets meet expectations more effectively.
 
 6. Business Implications:
-1. Focus on Licensed Themes:
+- Focus on Licensed Themes:
 The dominance of licensed themes suggests a strong preference for partnerships with popular franchises. Expanding partnerships with popular franchises could further increase sales.
-2. High attractiveness of piece count:
+- High attractiveness of piece count:
 Sets with higher piece counts are perceived as more desirable, indicating a demand for more detailed and complex builds among collectors and enthusiasts.
-3. Sustained interest in older sets:
+- Sustained interest in older sets:
 The growing interest in sets from the 2000s suggests a growing secondary market and nostalgia-driven demand. LEGO could capitalize on this by re-releasing classic sets or creating anniversary editions.
-4. Opportunities for lesser-known themes:
+- Opportunities for lesser-known themes:
 While licensed themes dominate, there is untapped potential in promoting original themes or those that have a lasting appeal.
-5. Theme Perception:
+- Theme Perception:
 Thematic disparities in ratings suggest that themes like "Educational" and "Art and Craft" may require improved designs or more targeted marketing to align with consumer expectations.
  
 7. Recommendations:
-1. Introduce new licensed themes tied to popular movies, TV shows or games. Keep the offering fresh to keep the excitement alive among collectors.
-2.Introduce high-complexity sets:
+- Introduce new licensed themes tied to popular movies, TV shows or games. Keep the offering fresh to keep the excitement alive among collectors.
+- Introduce high-complexity sets:
 Design more sets with more pieces to meet the demand for advanced building experiences.
-3.Improve marketing for underappreciated themes:
+- Improve marketing for underappreciated themes:
 Allocate resources to promote mid-sized themes like “City” or “Model Building” through targeted campaigns or partnerships with influencers in the LEGO community.
-4. Encourage Customer Reviews:
+- Encourage Customer Reviews:
 Implement initiatives (e.g., discounts, contests, or rewards) to encourage customers to rate products, particularly for unrated sets.
-5.Leverage Top-Rated Sets:
+- Leverage Top-Rated Sets:
 Use top-rated sets like the "Parisian Restaurant" as benchmarks for future product development. Highlight these sets in marketing campaigns to attract potential buyers.
-6. Premium Set Strategy:
+- Premium Set Strategy:
 Continue focusing on high-quality, complex, and premium sets, as they drive higher ratings and consumer satisfaction.
 
 8. Conclusion:
